@@ -15,3 +15,6 @@ A OS made on Turbowarp
 Use it at: https://turbowarp.org/?project_url=cdn.jsdelivr.net/gh/Alejandrix2456github/Shebang-OS%40main/Shebang.sb3&fps=60&clones=Infinity&size=640x360
 ## How do i send feedback?
 Use the Feedback app on the project and press the Upload Feedback button, when it asks about the feedback, answer it, and if it asks about your name, type the name you want to be registered to the Feedback list
+## Where does the idea come from?
+![Idea](https://github.com/Alejandrix2456github/Shebang-OS/blob/main/EfUqQIxjcF.png)
+Yes it came from a old 2016 scratch project don't ask me why
